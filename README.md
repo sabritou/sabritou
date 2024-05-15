@@ -1,5 +1,14 @@
 # 💫 About Me:
-🎓 Étudiant passionné chez Ada-Tech-School depuis Octobre 2023 ! Ada Tech School est une école d’informatique d’un nouveau genre. Elle forme des développeuses et développeurs généralistes en 2 ans en utilisant des méthodes pédagogiques alternatives. Elle attire une majorité de femmes, sans imposer de quotas.<br><br>🔍 Actuellement, je suis engagé dans un processus de reconversion chez Ada Tech School. Cette expérience m'offre l'opportunité d'approfondir mes compétences.<br><br>🌱 Mon expérience en tant qu'autodidacte dans la création de sites web ma permis d'explorer les bases du développements ainsi que UI/UX.<br>J'ai décidé de poursuivre ma croissance dans cette école qui représente pour moi une opportunité exceptionnelle de me développer.<br><br>🚀 Projet actuel : Je travaille activement sur un projet de services de développement web et de marketing numérique.<br><br>📸 Passionné de photographie, que ce soit pour des meetups photo, des événements spéciaux ou toute autre occasion photographique ! 🌟<br>
+🎓 Étudiant chez Ada-Tech-School (bac+3) depuis Octobre 2023, je suis passionné par le développement web et je me spécialise dans ce domaine. Ada Tech School représente pour moi bien plus qu'une simple école d'informatique. Elle m'offre l'opportunité d'explorer en profondeur les différentes facettes du développement web, en utilisant des méthodes pédagogiques innovantes.
+<br><br>
+🔍 Actuellement, je suis engagé dans un processus de reconversion chez Ada Tech School. je saisis chaque opportunité pour approfondir mes compétences dans le développement web. J'ai eu l'occasion d'apprendre à réaliser un site web en React.js, de découvrir de nouveaux langages.
+<br><br>
+🌱 Mon expérience en tant qu'autodidacte dans la création de sites web ma permis d'explorer les bases du développements et d'approfondir mes connaissances dans HTML5 ainsi que UI/UX.
+<br><br>
+🚀 Actuellement, je travaille sur un projet de services de développement web et de marketing numérique, où je mets en pratique mes compétences et ma créativité pour offrir des solutions innovantes. Mon objectif ultime est de devenir un développeur web, capable de concevoir et de mettre en œuvre des solutions web performantes.
+<br><br>
+Skills : 
+Html5, Css, ReactJS, Javascript / Notions
 
 
 ## 🌐 Socials:

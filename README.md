@@ -5,7 +5,7 @@
 <br><br>
 🌱 Mon expérience en tant qu'autodidacte dans la création de sites web ma permis d'explorer les bases du développements et d'approfondir mes connaissances dans HTML5 ainsi que UI/UX.
 <br><br>
-🚀 Actuellement, je travaille sur un projet de services de développement web et de marketing numérique, où je mets en pratique mes compétences et ma créativité pour offrir des solutions innovantes. Mon objectif ultime est de devenir un développeur web, capable de concevoir et de mettre en œuvre des solutions web performantes.
+🚀 Actuellement, je travaille sur un projet de services de développement web, où je mets en pratique mes compétences et ma créativité pour offrir des solutions innovantes. Mon objectif ultime est de devenir un développeur web, capable de concevoir et de mettre en œuvre des solutions web performantes.
 <br><br>
 Skills : 
 Html5, Css, ReactJS, Javascript / Notions

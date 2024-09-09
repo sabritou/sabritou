@@ -1,4 +1,4 @@
-# Me ;) :
+# Me ;) 
 🎓 Étudiant chez Ada-Tech-School (bac+3) depuis Octobre 2023, je suis passionné par le développement web et je me spécialise dans ce domaine. Ada Tech School représente pour moi bien plus qu'une simple école d'informatique. Elle m'offre l'opportunité d'explorer en profondeur les différentes facettes du développement web, en utilisant des méthodes pédagogiques innovantes.
 <br><br>
 🔍 Actuellement, je suis engagé dans un processus de reconversion chez Ada Tech School. je saisis chaque opportunité pour approfondir mes compétences dans le développement web. J'ai eu l'occasion d'apprendre à réaliser un site web en React.js, de découvrir de nouveaux langages.

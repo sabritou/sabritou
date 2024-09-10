@@ -1,11 +1,9 @@
 # Me ;) 
-🎓 Étudiant chez Ada-Tech-School (bac+3) depuis Octobre 2023, je suis passionné par le développement web et je me spécialise dans ce domaine. Ada Tech School représente pour moi bien plus qu'une simple école d'informatique. Elle m'offre l'opportunité d'explorer en profondeur les différentes facettes du développement web, en utilisant des méthodes pédagogiques innovantes.
-<br><br>
-🔍 Actuellement, je suis engagé dans un processus de reconversion chez Ada Tech School. je saisis chaque opportunité pour approfondir mes compétences dans le développement web. J'ai eu l'occasion d'apprendre à réaliser un site web en React.js, de découvrir de nouveaux langages.
+🎓 Étudiant passionné par le développement web ;)
 <br><br>
 🌱 Mon expérience en tant qu'autodidacte dans la création de sites web ma permis d'explorer les bases du développements et d'approfondir mes connaissances dans HTML5 ainsi que UI/UX.
 <br><br>
-🚀 Actuellement, je travaille sur un projet de services de développement web, où je mets en pratique mes compétences et ma créativité pour offrir des solutions innovantes. Mon objectif ultime est de devenir un développeur web, capable de concevoir et de mettre en œuvre des solutions web performantes.
+🚀 Actuellement, je travaille sur des projets où je mets en pratique mes compétences et ma créativité. Mon objectif ultime est de devenir un développeur web, capable de concevoir et de mettre en œuvre des solutions web performantes.
 <br><br>
 Skills : 
 Html5, Css, ReactJS, Javascript / Notions
